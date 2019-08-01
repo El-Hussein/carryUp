@@ -1,0 +1,32 @@
+AppContainer
+
+    --> switchNavigator(looged)?
+        
+        -> AuthLoad (default)
+        --> Auth Stack
+            -> Rigister
+            -> login
+
+        --> DrawerNavigator
+            
+            --> Home (default) Tab navigator
+                --> package Stack navigator
+                    -> package (Default)
+                    -> reciept
+                    -> delivery
+                    -> summary
+                    
+                -> chat
+                -> trace
+                -> account
+
+            -> profile
+
+            --> orders Tab navigator
+                -> newOrders
+                -> curetnOrders
+                -> finishedOrders
+
+            -> settings
+            -> callUs
+            -> terms
