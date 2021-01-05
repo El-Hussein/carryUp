@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.6.3",
     "react-native": "0.57",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react-native-elements": "^0.19.1",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-localization": "^2.1.0",
